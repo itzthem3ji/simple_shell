@@ -97,4 +97,4 @@ For a list of resources and commands used, refer to [RESOURCES.md](RESOURCES.md)
 
 ## Authors
 * **Feyitimi Victor** [LinkedIn:](http://www.linkedin.com/in/victorfeyitimi) || [Twitter](https://twitter.com/stillqlueless)
-* **Mbang Benjamin** [LinkedIn](https://www.linkedin.com/in/#) || [Twitter](https://twitter.com/#)
+* **Mbang Benjamin** [LinkedIn](https://www.linkedin.com/in/benny-mbang-44620823b/) || [Twitter](https://twitter.com/BennyMbang)
