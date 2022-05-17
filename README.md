@@ -44,8 +44,7 @@ The ``-g`` is for tracing Valgrind errors
 ## Usage
 Currently, when run, it looks like this:
 ```
-vagrant:simple_shell $ ./hsh
-Dance Magic Dance
+simple_shell $ ./hsh
 mejiben@alxprojects: cat main.c
 #include "shell.h"
 
@@ -55,7 +54,7 @@ int main(void)
 	return(0);
 }
 mejiben@alxprojects: exit 
-vagrant:simple_shell$ 
+simple_shell$ 
 ```
 
 ## Description of File Structure
@@ -116,7 +115,6 @@ vagrant:simple_shell$
 14. [AUTHORS](AUTHORS) - List of contributors.
 15. [LINKS.md](LINKS.md) - List of links used for learning how to make this project.
 16. [man_1_simple_shell](man_1_simple_shell) - Basic manual page.
-17. [bowie](bowie.txt) - ASCII art of David Bowie.
 
 ## TODO
 ### Mandatory
