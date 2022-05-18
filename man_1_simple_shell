@@ -7,7 +7,7 @@
 [No options yet]
 .SH DESCRIPTION
 .B hsh
-hsh is a simple interactive command interpreter. It executes commands read from the standard input. hsh is not fully featured. It can only handle simple commands in the form: "<command> [options]"
+hsh is a command interpreter that may be used interactively. It runs commands that are read from standard input. hsh isn't entirely functional. It can only execute basic commands.
 .SH BUILTIN COMMANDS
 .B cd
 - changes the working directory.
