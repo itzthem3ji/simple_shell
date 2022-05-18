@@ -89,7 +89,7 @@ gcc -Wall -Wextra -Werror -pedantic -g *.c -o hsh
   * ``_strtok_r()`` - Split a string into tokens, and alters the string in the process. Recreation of ``strtok`` from ``<string.h>``
 14. [AUTHORS](AUTHORS) - List of contributors.
 15. [RESOURCES.md](RESOURCES.md).
-16. [man_1_simple_shell](man_1_simple_shell).
+16. [hsh_man_page](hsh_man_page).
 
 
 ## Links
